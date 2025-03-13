@@ -50,7 +50,7 @@
                                             <h2 class="fw-bolder">Project DDP</h2>
                                             <p>membuat aplikasi E-Apotik ,mempermudah pengelolaan apotek secara digital, baik dari sisi stok obat, transaksi, resep dokter,dan Dengan fitur seperti manajemen stok, penjualan online, dan laporan keuangan, aplikasi ini membantu apotek beroperasi lebih efisien dan aman</p>
                                         </div>
-                                        <img class="img-fluid" src="./assets/projekk.jpg" alt="..." />
+                                        <img class="img-fluid" src="./assets/projekk.jpg" alt="" width="400px" height="100px"/>
                                     </div>
                                 </div>
                             </div>
@@ -61,7 +61,7 @@
         <footer class="bg-white py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                    <div class="col-auto"><div class="small m-0">Copyright &copy; Your Website 2023</div></div>
+                    <div class="col-auto"><div class="small m-0">Copyright &copy; My Website</div></div>
                     <div class="col-auto">
                     </div>
                 </div>
